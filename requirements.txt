@@ -3,4 +3,3 @@ Gunicorn
 mediapipe
 numpy
 matplotlib
-cv2
