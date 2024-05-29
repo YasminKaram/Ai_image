@@ -2,4 +2,5 @@ Flask
 Gunicorn
 mediapipe
 numpy
-
+opencv-python 
+matplotlib
