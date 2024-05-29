@@ -4,3 +4,5 @@ mediapipe
 numpy
 opencv-python 
 matplotlib
+
+
