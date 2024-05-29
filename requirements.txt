@@ -1,0 +1,5 @@
+Flask
+Gunicorn
+mediapipe
+numpy
+matplotlib
